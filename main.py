@@ -9,4 +9,4 @@ def my_flow():
     say_hello()
 
 if __name__ == "__main__":
-    main.serve(name="my-flow")
+    my_flow.serve(name="my-first-flow")
